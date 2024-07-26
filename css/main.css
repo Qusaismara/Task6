@@ -1,0 +1,83 @@
+*{
+
+  margin: 0;  
+}
+h1{
+  margin-bottom: 70px;
+  margin-left: 170px; 
+  
+}
+
+.contents{
+
+margin: auto;
+width: 80%;
+
+}
+.iphone-photo{
+width: 90%;
+display: block;
+margin: auto;
+margin-top: 10px;
+
+}
+.products{
+float: left;
+width: 23.5%; 
+border:solid;
+border-width: 1px;
+margin-left: 5px;
+margin-right: 5px;
+
+
+}
+.clear{
+   clear: both; 
+}
+h2{
+   margin :10px; ; 
+}
+.prag{
+margin-left: 10px;
+
+}
+.price{
+color: green;
+float: left;
+margin-left: 10px ;
+margin-top: 10px;
+
+}
+.previase-price{
+   color: red;
+   text-decoration: line-through;
+   font-size: 15px;
+   
+   margin-top: 12px;
+}
+.Addbotton{
+background-color: rgb(4, 22, 179);
+width: 70%;
+height: 50px;
+color: white;
+margin: 10px;
+border-color:rgb(4, 22, 179) ;
+}
+.fa-regular{
+color: rgb(0, 176, 251);
+
+
+font-size: 25px;
+
+}
+.products2{
+
+   float: left;
+   width: 23.5%; 
+   border:solid;
+   border-width: 1px;
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-top: 10px;
+}
+
